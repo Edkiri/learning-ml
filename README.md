@@ -1,4 +1,6 @@
-# Pasos para implementar un sistema de recomendaciones
+# Objetivo: Aprender lo necesario de Machinne Learning para implementar un sistema de recomendaciones de productos en un ecommerce basada en el historial de compra de los clientes.
+
+## Según ChatGPT (3.5) estos son los pasos a seguir:
 
 1. **Recopilación de datos:**
    - Almacena información detallada sobre las transacciones de tus clientes, como productos comprados, fecha de compra, categorías, etc.
@@ -52,22 +54,7 @@
    - Reseñas, valoraciones, listas de deseos, etc.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Implementación de un Sistema de Recomendaciones basado en Deep Learning
+# Pasos más específicos, usando Deep Learning, según ChatGPT (3.5) :
 
 ## 1. Aprendizaje de Deep Learning:
    - Familiarízate con conceptos clave de deep learning, como redes neuronales, capas, funciones de activación y backpropagation.
@@ -117,20 +104,3 @@
 
 ## 10. Documentación y Compartir Conocimientos:
    - Documenta tu proceso de implementación y comparte tus conocimientos con la comunidad para ayudar a otros y consolidar lo aprendido.
-
-
-
-## Curso de PyTorch:
-
-   ### #Preguntas:
-   - Porqué usar Machinne Learning?
-      -  Machinne Learning intenta buscar un solucion donde nisiquiera nosotros sabemos todas las reglas
-      -  Los modelos son buenos buscando patrones
-      -  Son útiles para la clasificación de datos
-   - Qué son las redes neuronales?
-
-## dotcsv
-   - Paradigmas de aprendizaje:
-     - Aprendizaje supervisado
-     - Aprendizaje no supervisado
-     - Aprendizaje reforzado
