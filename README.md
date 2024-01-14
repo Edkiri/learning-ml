@@ -1,4 +1,4 @@
-# Objetivo: Aprender lo necesario de Machinne Learning para implementar un sistema de recomendaciones de productos en un ecommerce basada en el historial de compra de los clientes.
+# Objetivo: Aprender lo necesario de Machinne Learning para implementar un sistema de recomendaciones de productos en un ecommerce basado en el historial de compra de los clientes.
 
 ## Según ChatGPT (3.5) estos son los pasos a seguir:
 
